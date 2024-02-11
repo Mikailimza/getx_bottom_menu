@@ -1,6 +1,6 @@
 # getx_bottom_menu
 
-A new Flutter project.
+Mikail İmza Project.
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+------------------------------ Mikail İmza ---------------------------------
+
+Get ile bottom menü yönetimi ve get ile language yönetimi
+çalışma dosyalarına göz atın ihtiyac durumunda veya yeni başlayan arkadaşlar için bir fikir oluşturması amacı ile yapılmıştır
