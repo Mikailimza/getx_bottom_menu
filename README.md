@@ -18,4 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 ------------------------------ Mikail İmza ---------------------------------
 
 Get ile bottom menü yönetimi ve get ile language yönetimi
-çalışma dosyalarına göz atın ihtiyac durumunda veya yeni başlayan arkadaşlar için bir fikir oluşturması amacı ile yapılmıştır
+çalışma dosyalarına göz atın ihtiyac durumunda veya yeni başlayan arkadaşlar için bir fikir oluşturması amacı ile yapılmıştır.
+Sistemin çalışması için gerekli flutter paketlerini ekleyi unutmayınız
+get - hive - hive_flutter
+
+Gerekli Durumda iletişime geçebilirsiniz hayat paylaştıkca güzeldir.
