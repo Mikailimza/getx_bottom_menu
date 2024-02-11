@@ -31,7 +31,7 @@ class MyAppBar extends StatelessWidget implements PreferredSizeWidget {
             homeController.diveceLanguage();
           },
           icon: const Icon(
-            Icons.menu,
+            Icons.language,
             color: myAppBar,
           ),
         ),
